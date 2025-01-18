@@ -108,6 +108,3 @@ Planned improvements:
 - Add support for regular expressions
 - Improve error handling
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
